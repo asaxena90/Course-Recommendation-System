@@ -18,7 +18,7 @@ except ValueError as e:
     sys.exit(f"Error: {e}")
 
 # Define the embedding model
-EMBEDDING_MODEL = "text-embedding-001"
+EMBEDDING_MODEL = "text-embedding-004"
 # Dataset URL
 DATASET_URL = "https://raw.githubusercontent.com/Bluedata-Consulting/GAAPB01-training-code-base/refs/heads/main/Assignments/assignment2dataset.csv"
 
